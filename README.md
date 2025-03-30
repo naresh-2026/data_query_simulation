@@ -36,6 +36,7 @@ source venv/bin/activate  # On Windows, use: venv\Scripts\activate
 Install Dependencies
 ```sh
 pip install -r requirements.txt
+python -m spacy download en_core_web_sm
 ```
 
 Running the Application
