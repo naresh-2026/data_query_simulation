@@ -84,10 +84,4 @@ To deploy on Render/Heroku/Railway, configure `Procfile` and use:
 git push heroku main  # For Heroku deployment
 ```
 
-License
-This project is licensed under the MIT License.
-
----
-
-Let me know if you need modifications! 🚀
 
